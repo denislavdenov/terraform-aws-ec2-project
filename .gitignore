@@ -1,0 +1,8 @@
+.kitchen/
+.terraform/
+terraform.tfstate*
+.DS_Store
+id_rsa
+secrets.tar
+terraform.tfvars
+the_new_key
